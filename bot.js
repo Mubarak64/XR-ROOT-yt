@@ -25,7 +25,7 @@ For help contact @${CONTACT_USERNAME}.`;
   IMPORTANT: All arrays MUST have exactly 10 items (index 0 = Part 1).
 */
 const PART_NAMES = [
-  "Part 1 - Starter",
+  "XR ROOT MODS - Starter",
   "Part 2 - Basic",
   "Part 3 - Advanced",
   "Part 4 - Pro",
@@ -55,16 +55,16 @@ const PART_LINKS = [
 ];
 
 const PART_IMAGES = [
-  "https://winzomodapk.xyz/wp-content/uploads/2025/08/20250830_134924-scaled.jpg", // part1
-  "https://winzomodapk.xyz/wp-content/uploads/2025/08/20250830_134924-scaled.jpg", // part2
-  "https://winzomodapk.xyz/wp-content/uploads/2025/08/20250830_134924-scaled.jpg", // change per part
-  "https://winzomodapk.xyz/wp-content/uploads/2025/08/20250830_134924-scaled.jpg",
-  "https://winzomodapk.xyz/wp-content/uploads/2025/08/20250830_134924-scaled.jpg",
-  "https://winzomodapk.xyz/wp-content/uploads/2025/08/20250830_134924-scaled.jpg",
-  "https://winzomodapk.xyz/wp-content/uploads/2025/08/20250830_134924-scaled.jpg",
-  "https://winzomodapk.xyz/wp-content/uploads/2025/08/20250830_134924-scaled.jpg",
-  "https://winzomodapk.xyz/wp-content/uploads/2025/08/20250830_134924-scaled.jpg",
-  "https://winzomodapk.xyz/wp-content/uploads/2025/08/20250830_134924-scaled.jpg"
+  "https://winzomodapk.xyz/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-21-at-11.29.32_39c458e0.jpg", // part1
+  "https://winzomodapkK.xyz/wp-content/uploads/2025/08/20250830_134924-scaled.jpg", // part2
+  "https://winzomodapkK.xyz/wp-content/uploads/2025/08/20250830_134924-scaled.jpg", // change per part
+  "https://winzomodapkK.xyz/wp-content/uploads/2025/08/20250830_134924-scaled.jpg",
+  "https://winzomodapkK.xyz/wp-content/uploads/2025/08/20250830_134924-scaled.jpg",
+  "https://winzomodapkK.xyz/wp-content/uploads/2025/08/20250830_134924-scaled.jpg",
+  "https://winzomodapkK.xyz/wp-content/uploads/2025/08/20250830_134924-scaled.jpg",
+  "https://winzomodapkK.xyz/wp-content/uploads/2025/08/20250830_134924-scaled.jpg",
+  "https://winzomodapkK.xyz/wp-content/uploads/2025/08/20250830_134924-scaled.jpg",
+  "https://winzomodapkK.xyz/wp-content/uploads/2025/08/20250830_134924-scaled.jpg"
 ];
 /* ========================================================== */
 
@@ -214,3 +214,4 @@ bot.launch()
 // graceful stop
 process.once("SIGINT", () => bot.stop("SIGINT"));
 process.once("SIGTERM", () => bot.stop("SIGTERM"));
+
